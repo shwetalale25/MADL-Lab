@@ -1,0 +1,24 @@
+option Menu
+https://www.youtube.com/watch?v=qXFNPk7tj4k
+
+intent
+https://www.youtube.com/watch?v=fo2L7WmvZMg
+
+contextmenu
+https://youtu.be/fMoy_QvETxU?si=Oh0ShsJf_CmdaFWR
+
+
+popupmenu
+https://youtu.be/PTejW6z0szc?si=NtJrX7DSRzt423Nm
+
+relativelayout
+https://www.youtube.com/watch?v=gEQCmRq44KU
+
+absolutelayout
+https://www.youtube.com/watch?v=xPazQb_VpWU
+
+smssymphony
+https://www.youtube.com/watch?v=ph6S00Q8afw
+
+notification
+https://www.youtube.com/watch?v=4BuRMScaaI41
